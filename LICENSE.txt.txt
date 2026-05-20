@@ -1,0 +1,4 @@
+Copyright (c) 2025 Sadaf M. Anis
+All rights reserved.
+This code is provided solely for review purposes. 
+Redistribution, modification, or use without explicit permission is strictly prohibited.
